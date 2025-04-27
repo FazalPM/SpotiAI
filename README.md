@@ -98,3 +98,8 @@ Feel free to build, remix, or contribute!
 ---
 
 # 🎵 Let's Build the Future of Listening Together.
+---
+**Disclaimer:** This is a personal project created for learning and portfolio purposes only.  
+SpotiAI is not affiliated with, endorsed by, or connected to Spotify. All logos and brand names belong to their respective owners.
+---
+
