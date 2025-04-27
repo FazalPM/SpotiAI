@@ -66,8 +66,11 @@ SpotiAI is built around clear user needs:
 
 ---
 
-## Wireframes
-📂 [View Wireframes](docs/Wireframes.png) *(Optional if uploaded)*
+## 🖌 Wireframes
+
+📂 [View Wireframe 1](docs/Wireframe_1.png)  
+📂 [View Wireframe 2](docs/Wireframe_2.png)
+
 
 ---
 
