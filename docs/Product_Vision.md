@@ -19,10 +19,10 @@ SpotiAI aims to extend the magic of Spotify Wrapped into a **daily, interactive 
 ## New Concept: Podcast Micro-Summaries
 SpotiAI offers an additional innovation:
 
-🔹 After listening to a podcast episode, users can ask SpotiAI:  
+After listening to a podcast episode, users can ask SpotiAI:  
 *"What was the key takeaway from today's episode?"*  
 
-🔹 SpotiAI responds with a **short, headline-style memory** —  
+SpotiAI responds with a **short, headline-style memory** —  
 e.g., *“Billions invested in the future of AI in Big Apple.”*
 
 **Key Conditions:**
