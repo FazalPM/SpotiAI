@@ -1,8 +1,8 @@
-# 🎵 SpotiAI – Chat with Your Spotify Listening History
+# SpotiAI – Chat with Your Spotify Listening History
 
 ---
 
-## 🌟 Overview
+## Overview
 Imagine being able to **talk** to your Spotify listening history —  
 Ask about your music habits, podcast learnings, and emotional journeys through songs.
 
@@ -15,15 +15,15 @@ Built as a personal innovation project by a Product Manager to explore the futur
 
 ---
 
-## 🚀 Product Vision
+## Product Vision
 SpotiAI transforms passive listening into **active reflection and learning**,  
 by allowing users to **interact conversationally** with their Spotify history.  
 It strengthens emotional loyalty and daily engagement with Spotify, extending the success of Spotify Wrapped into a daily personalized experience.
 
-🔹 New Innovation:  
+New Innovation:  
 Generate **podcast micro-summaries** only if users have actually listened to episodes.
 
-🔹 Strategic Impact for Spotify:  
+Strategic Impact for Spotify:  
 - Higher daily active usage
 - Increased emotional loyalty
 - Sharable insights, boosting organic growth
@@ -32,7 +32,7 @@ Generate **podcast micro-summaries** only if users have actually listened to epi
 
 ---
 
-## 🛠 System Design
+## System Design
 SpotiAI connects the user with their listening data through an AI-powered backend:
 
 - **Frontend:** Chat UI (web or in-app)
@@ -44,7 +44,7 @@ SpotiAI connects the user with their listening data through an AI-powered backen
 
 ---
 
-## 📋 PRD (Product Requirements Document)
+## PRD (Product Requirements Document)
 SpotiAI is built around clear user needs:
 
 - **Music Explorers** want to reflect on their habits.
@@ -56,7 +56,7 @@ SpotiAI is built around clear user needs:
 
 ---
 
-## 🎯 MVP Launch Plan
+## MVP Launch Plan
 
 | Phase | Features |
 |-------|----------|
@@ -66,12 +66,12 @@ SpotiAI is built around clear user needs:
 
 ---
 
-## 🖌 Wireframes
+## Wireframes
 📂 [View Wireframes](docs/Wireframes.png) *(Optional if uploaded)*
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 - **Frontend:** React.js (or HTML/CSS/JS for MVP)
 - **Backend:** Python (Flask) or Node.js (Express)
 - **APIs:** Spotify Web API, OpenAI API
@@ -80,14 +80,14 @@ SpotiAI is built around clear user needs:
 
 ---
 
-## 📈 Future Plans
+## Future Plans
 - Real-time music journaling
 - Smart emotional summaries
 - Weekly proactive AI reports
 
 ---
 
-## 📜 License
+## License
 Open-sourced under the MIT License.  
 Feel free to build, remix, or contribute!
 
