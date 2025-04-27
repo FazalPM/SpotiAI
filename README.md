@@ -1,4 +1,4 @@
-# SpotiAI – Chat with Your Spotify Listening History | Chat Feature in Spotify!
+# SpotiAI Feature – Chat with Your Spotify Listening History
 
 ---
 
