@@ -2,7 +2,7 @@
 
 ---
 
-## Overview This is a Proposal 
+## Overview - This is a Proposal 
 Imagine being able to **talk** to your Spotify listening history —  
 Ask about your music habits, podcast learnings, and emotional journeys through songs.
 
