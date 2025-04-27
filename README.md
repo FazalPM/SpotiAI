@@ -1,4 +1,4 @@
-![SpotiAI Banner](./docs/assets/spotiAI_banner.png)
+![SpotiAI Banner](./docs/spotiAI_banner.png)
 
 # 🎵 SpotiAI – Chat with Your Listening History
 ...
