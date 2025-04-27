@@ -1,3 +1,7 @@
+![SpotiAI Banner](./docs/assets/spotiAI_banner.png)
+
+# 🎵 SpotiAI – Chat with Your Listening History
+...
 
 # SpotiAI Feature – Chat with Your Spotify Listening History
 
